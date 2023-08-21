@@ -4,3 +4,6 @@
 [submodule "database"]
 	path = database
 	url = https://github.com/monolith-game/database.git
+[submodule "server"]
+	path = server
+	url = https://github.com/monolith-game/server.git
